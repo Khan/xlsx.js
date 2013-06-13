@@ -1,8 +1,3 @@
-var JSZip = null
-if (typeof require === 'function') {
-	JSZip = require('node-zip');
-}
-
 //----------------------------------------------------------
 // Copyright (C) Microsoft Corporation. All rights reserved.
 // Released under the Microsoft Office Extensible File License
